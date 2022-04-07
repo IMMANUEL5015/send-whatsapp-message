@@ -12,5 +12,9 @@
     "Node.js"
   ],
   "author": "Immanuel Diai",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twilio": "^3.76.1"
+  }
 }
